@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="img">
+    <file>res/muyu.png</file>
+  </qresource>
+</RCC>
